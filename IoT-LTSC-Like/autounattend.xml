@@ -397,7 +397,6 @@ foreach( $file in $Document.unattend.Extensions.File ) {
   'Microsoft.MicrosoftOfficeHub';
   'Microsoft.Office.OneNote';
   'Microsoft.OutlookForWindows';
-  'Microsoft.MSPaint';
   'Microsoft.People';
   'Microsoft.Windows.Photos';
   'Microsoft.PowerAutomateDesktop';
